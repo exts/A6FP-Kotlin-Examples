@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTipCalculatorBlind</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="precent_textview">15%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+</resources>
